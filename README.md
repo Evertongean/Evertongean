@@ -6,7 +6,7 @@
 
 ## 🛠️ Tecnologias
 
-**Linguagens:** Java, Python, TypeScript, JavaScript, C++, Django, Django Rest, Node.js 
+**Linguagens:** Java, Python, TypeScript, JavaScript, C++, Django, Django Rest, Node.js           
 **Backend:** Spring Boot, Spring Data JPA, Spring AI, FastAPI, APIs REST  
 **Frontend:** React, React Native, HTML, CSS                      
 **Dados e mensageria:** PostgreSQL, MySQL, H2, RabbitMQ, gRPC  

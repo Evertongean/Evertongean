@@ -2,14 +2,15 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas no IFRN**.
 
-💻 Desenvolvedor em formação, com foco em **backend Java, Spring Boot e APIs REST**. Também exploro arquitetura de sistemas, Python, aplicações mobile e integração com inteligência artificial.
+💻 Desenvolvedor em formação, aprendendo **backend Java, Spring Boot e APIs REST**. Também exploro arquitetura de sistemas, Python, aplicações mobile e integração com inteligência artificial.
 
 ## 🛠️ Tecnologias
 
 **Linguagens:** Java, Python, TypeScript, JavaScript, C++  
 **Backend:** Spring Boot, Spring Data JPA, Spring AI, FastAPI, APIs REST  
+**Frontend:** React, Heact Native, HTML, CSS 
 **Dados e mensageria:** PostgreSQL, MySQL, H2, RabbitMQ, gRPC  
-**Outras ferramentas:** Git, GitHub, Docker, Linux, React Native, Expo
+**Outras ferramentas:** Git, GitHub, Docker, Linux, Expo
 
 ## 🚀 Projetos em destaque
 

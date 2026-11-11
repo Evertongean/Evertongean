@@ -8,7 +8,7 @@
 
 **Linguagens:** Java, Python, TypeScript, JavaScript, C++  
 **Backend:** Spring Boot, Spring Data JPA, Spring AI, FastAPI, APIs REST  
-**Frontend:** React, React Native, HTML, CSS 
+**Frontend:** React, React Native, HTML, CSS                      
 **Dados e mensageria:** PostgreSQL, MySQL, H2, RabbitMQ, gRPC  
 **Outras ferramentas:** Git, GitHub, Docker, Linux, Expo
 
